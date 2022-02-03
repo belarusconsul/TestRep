@@ -1,5 +1,3 @@
-http://localhost:8080/buildStatus/icon?job=GitHub+Job
-
 # Pure Python command-line RSS reader
 
 
