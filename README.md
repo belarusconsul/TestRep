@@ -1,4 +1,4 @@
-[![Build Status](http://localhost:8080/buildStatus/icon?job=GitHub+Job)](http://localhost:8080/job/GitHub%20Job/)
+http://localhost:8080/buildStatus/icon?job=GitHub+Job
 
 # Pure Python command-line RSS reader
 
