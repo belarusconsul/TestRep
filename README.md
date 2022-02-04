@@ -1,7 +1,6 @@
 # Pure Python command-line RSS reader
 
 
-
 ### Homework for EPAM Python Training 2021.09
 
 
